@@ -2,5 +2,12 @@
    "pack": {
       "pack_format": 8,
       "description": "The Resource Pack for the §5TrashSMP"
-   }
+   },
+   "language": {
+    "TrashSMP": {
+      "name": "TrashSMP language",
+      "region": "TrashSMP",
+      "bidirectional": false
+    }
+  }
 }
